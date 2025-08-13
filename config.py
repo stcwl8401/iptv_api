@@ -28,7 +28,7 @@ source_urls = [
     "http://live.nctv.top/x.txt",   
     "https://live.izbds.com/tv/iptv4.txt",
     "http://47.120.41.246:8899/zb.txt",
-    "http://rihou.cc:555/gggg.nzk",
+    "http://unraid.stcwl.xyz/gggg.txt",
     "http://1.94.31.214/live/livelite.txt",
     "http://api.mytv666.top/lives/free.php?type=txt",
     "http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt",
