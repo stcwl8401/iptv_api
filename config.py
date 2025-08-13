@@ -10,7 +10,6 @@ source_urls = [
     "https://live.kakaxi-1.ink/ipv4.txt",
     "https://live.kakaxi-1.ink/ipv4.1.txt",
     "https://gh.catmak.name/https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
-    "http://8.138.7.223/2025.txt",
     "https://www.iyouhun.com/tv/myIPTV/ipv6.m3u",
     "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
     "https://live.izbds.com/tv/iptv4.txt",
