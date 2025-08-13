@@ -43,6 +43,7 @@ url_blacklist = [
     "www.tfiplaytv.vip",
     "dp.sxtv.top",
     "111.230.30.193",
+    "113.64.146.99",
     "148.135.93.213:81",
     "live.goodiptv.club",
     "8.138.7.223",  
