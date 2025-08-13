@@ -15,6 +15,7 @@ source_urls = [
     "https://live.izbds.com/tv/iptv4.txt",
     "http://47.120.41.246:8899/zb.txt",
     "http://unraid.stcwl.xyz/gggg.txt",
+    "http://unraid.stcwl.xyz/lib/czlt.txt",   
     "http://1.94.31.214/live/livelite.txt",
     "https://web.banye.tech:7777/tv/hlj.txt",
     "https://iptv.catvod.com/tv.m3u",
