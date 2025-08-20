@@ -6,19 +6,24 @@ ip_version_priority = "ipv4"
 # 直播源URL列表
 source_urls = [
     "https://cnb.cool/junchao.tang/live/-/git/raw/main/%E5%85%A8%E7%90%83%E9%80%9A.py",
-    "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
-    "https://live.kakaxi-1.ink/ipv4.txt",
-    "https://live.kakaxi-1.ink/ipv4.1.txt",
-    "https://gh.catmak.name/https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
-    "https://www.iyouhun.com/tv/myIPTV/ipv6.m3u",
-    "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
-    "https://live.izbds.com/tv/iptv4.txt",
+    "https://txt.kesug.com/users/HKTV.txt",
+    "https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt",
+    "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+    "https://live.hacks.tools/tv/iptv6.txt",
+    "https://live.hacks.tools/tv/iptv4.txt",
     "http://47.120.41.246:8899/zb.txt",
     "http://unraid.stcwl.xyz/gggg.txt",
-    "http://unraid.stcwl.xyz/lib/czlt.txt",   
+    "http://unraid.stcwl.xyz/m3u/fytv.txt",
+    "http://unraid.stcwl.xyz/m3u/jrdl.txt",   
+    "http://unraid.stcwl.xyz/m3u/mytv666.txt",   
+    "http://unraid.stcwl.xyz/m3u/others.txt",   	
     "http://1.94.31.214/live/livelite.txt",
     "https://web.banye.tech:7777/tv/hlj.txt",
-    "https://iptv.catvod.com/tv.m3u",
     "https://live.zbds.top/tv/iptv4.txt",
     "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
@@ -30,6 +35,7 @@ source_urls = [
 # 直播源黑名单URL列表，去除了重复项
 url_blacklist = [
     "epg.pw/stream/",
+    "rtmp",
     "103.40.13.71:12390",
     "[2409:8087:1a01:df::4077]/PLTV/",
     "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8",
@@ -83,7 +89,7 @@ epg_urls = [
     "https://epg.pw/xmltv/epg_TW.xml"
 ]
 # 测速超时时间（秒）
-TEST_TIMEOUT = 10
+TEST_TIMEOUT = 15
 
 # 测速线程池最大工作线程数
 MAX_WORKERS = 20
