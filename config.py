@@ -28,7 +28,7 @@ source_urls = [
     "https://d.kstore.dev/download/15114/HKTV.txt",
     "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
     "http://kkk.888.3116598.xyz/user/HKTV.txt",
-    "http://gg.7749.org/z/i/gdss.txt",
+    "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
     "https://live.kakaxi-1.ink/ipv4.txt",
     "https://live.kakaxi-1.ink/ipv4.1.txt",
     "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
