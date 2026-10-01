@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-09-28" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-09-28
+#EXTINF:-1 tvg-id="1" tvg-name="2026-10-01" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-01
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="./pic/logos广州综合.png" group-title="📺┃广东频道",广州综合
 https://168.sryze.cc/163189/gzzh$IPV4•线路1
@@ -262,41 +262,43 @@ http://gd.wsd.gd.cn:1698/hls/92/index.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
 http://211.97.63.3:3443/hls/541/index.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://r.jdshipin.com/qClQf$IPV4•线路4
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2JkY2ZkODIzOWE1MjhiZjhiMTFkNWNjNTA4ODk2ZDk3L21hc3Rlci5tM3U4$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://r.jdshipin.com/qrfbg$IPV4•线路5
+http://r.jdshipin.com/qClQf$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://r.jdshipin.com/62WM7$IPV4•线路6
+http://r.jdshipin.com/qrfbg$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://r.jdshipin.com/n90gt$IPV4•线路7
+http://r.jdshipin.com/62WM7$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://r.jdshipin.com/GeWKr$IPV4•线路8
+http://r.jdshipin.com/n90gt$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$IPV4•线路9
+http://r.jdshipin.com/GeWKr$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34$IPV4•线路10
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$IPV4•线路10
 #EXTINF:-1 tvg-id="11" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$IPV4•线路11
+http://iptv.4666888.xyz/iptv2A.php?id=34$IPV4•线路11
 #EXTINF:-1 tvg-id="12" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-https://smart.946985.filegear-sg.me/smart.php?id=jade_twn$IPV4•线路12
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$IPV4•线路12
 #EXTINF:-1 tvg-id="13" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue$IPV4•线路13
+https://smart.946985.filegear-sg.me/smart.php?id=jade_twn$IPV4•线路13
 #EXTINF:-1 tvg-id="14" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://hls.168.us.kg/u/81/master.m3u8$IPV4•线路14
+https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue$IPV4•线路14
 #EXTINF:-1 tvg-id="15" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8$IPV4•线路15
+http://hls.168.us.kg/u/81/master.m3u8$IPV4•线路15
 #EXTINF:-1 tvg-id="16" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://cdn3.123.rr.kg/stream/tvb/fct/$IPV4•线路16
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8$IPV4•线路16
 #EXTINF:-1 tvg-id="17" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$IPV4•线路17
+http://cdn3.123.rr.kg/stream/tvb/fct/$IPV4•线路17
 #EXTINF:-1 tvg-id="18" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$IPV4•线路18
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$IPV4•线路18
 #EXTINF:-1 tvg-id="19" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/$IPV4•线路19
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$IPV4•线路19
 #EXTINF:-1 tvg-id="20" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-https://cdn6.163189.xyz/163189/fct4k$IPV4•线路20
+https://o11.163189.xyz/stream/tvb/fct4k/$IPV4•线路20
 #EXTINF:-1 tvg-id="21" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct$IPV4•线路21
+https://cdn6.163189.xyz/163189/fct4k$IPV4•线路21
+#EXTINF:-1 tvg-id="22" tvg-name="翡翠台" tvg-logo="./pic/logos翡翠台.png" group-title="🍓┃湾区频道",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct$IPV4•线路22
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
 https://cdn6.cc.cd/163189/fhzw$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="./pic/logos凤凰中文.png" group-title="🍓┃湾区频道",凤凰中文
@@ -380,7 +382,7 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$IPV4•线路21
 #EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo="./pic/logostvN.png" group-title="🍓┃湾区频道",tvN
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="./pic/logosPopC.png" group-title="🍓┃湾区频道",PopC
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226$IPV4
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoLzdiNTg5NGY1YjMzYjVlOTU4OTI1OTk5OTRjNDQxYmEzL21hc3Rlci5tM3U4$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="J2" tvg-logo="./pic/logosJ2.png" group-title="🍓┃湾区频道",J2
 http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="./pic/logos明珠台.png" group-title="🍓┃湾区频道",明珠台
@@ -403,6 +405,8 @@ http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8$IPV4•线路8
 http://hls.168.us.kg/u/84/master.m3u8$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="明珠台" tvg-logo="./pic/logos明珠台.png" group-title="🍓┃湾区频道",明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路10
+#EXTINF:-1 tvg-id="1" tvg-name="无线明珠" tvg-logo="./pic/logos无线明珠.png" group-title="🍓┃湾区频道",无线明珠
+http://rihou.cc:555/tv/[Pd]无线明珠$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="娱乐新闻台" tvg-logo="./pic/logos娱乐新闻台.png" group-title="🍓┃湾区频道",娱乐新闻台
 http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="無線新聞台" tvg-logo="./pic/logos無線新聞台.png" group-title="🍓┃湾区频道",無線新聞台
@@ -488,7 +492,7 @@ https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="美亚电影台" tvg-logo="./pic/logos美亚电影台.png" group-title="🍓┃湾区频道",美亚电影台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="美亞電影台(HK)" tvg-logo="./pic/logos美亞電影台(HK).png" group-title="🍓┃湾区频道",美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$IPV4
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2RlNGM5ZmJjODBhNTFlOTVhNDJhZTU2ZDA4YmVkOGQzL21hc3Rlci5tM3U4$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影粤" tvg-logo="./pic/logos美亚电影粤.png" group-title="🍓┃湾区频道",美亚电影粤
 http://173.208.234.146/live/mymovie.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="美亚电影粤" tvg-logo="./pic/logos美亚电影粤.png" group-title="🍓┃湾区频道",美亚电影粤
@@ -510,17 +514,19 @@ https://smart.946985.filegear-sg.me/smart.php?id=hoycaijing_twn$IPV4•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
 https://smt.1678520.xyz/163189/tvbp$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-http://r.jdshipin.com/Nr5jq$IPV4•线路2
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2QwM2FiMGM5NzgyNTQ0OTJkNzEzOWQ4ZDgxZGYxNzZhL21hc3Rlci5tM3U4$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-http://r.jdshipin.com/ndGgS$IPV4•线路3
+http://r.jdshipin.com/Nr5jq$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp$IPV4•线路4
+http://r.jdshipin.com/ndGgS$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2$IPV4•线路5
+http://bxtv.3a.ink/api.php?id=tvbp$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-https://o11.163189.xyz/stream/tvb/tvbp/$IPV4•线路6
+http://php.jdshipin.com/TVOD/iptv.php?id=j2$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
-http://74.91.26.218:82/live/j2.m3u8$IPV4•线路7
+https://o11.163189.xyz/stream/tvb/tvbp/$IPV4•线路7
+#EXTINF:-1 tvg-id="8" tvg-name="TVB Plus" tvg-logo="./pic/logosTVB Plus.png" group-title="🍓┃湾区频道",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8$IPV4•线路8
 #EXTINF:-1 tvg-id="1" tvg-name="天映频道粤" tvg-logo="./pic/logos天映频道粤.png" group-title="🍓┃湾区频道",天映频道粤
 https://cdn3.indevs.in/stream/live/typd/$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="天映频道粤" tvg-logo="./pic/logos天映频道粤.png" group-title="🍓┃湾区频道",天映频道粤
@@ -4962,7 +4968,7 @@ http://2280.eu.org:1234/619495952$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="东森幼幼" tvg-logo="./pic/logos东森幼幼.png" group-title="🐟┃少儿频道",东森幼幼
 https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="momo亲子" tvg-logo="./pic/logosmomo亲子.png" group-title="🐟┃少儿频道",momo亲子
-https://live.ottiptv.cc/huya/23352563$IPV4
+rtmp://f13h.mine.nu/sat/tv761$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="./pic/logos黑莓动画.png" group-title="🐟┃少儿频道",黑莓动画
 http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="黑莓动画" tvg-logo="./pic/logos黑莓动画.png" group-title="🐟┃少儿频道",黑莓动画
